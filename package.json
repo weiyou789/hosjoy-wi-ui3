@@ -1,8 +1,8 @@
 {
   "name": "hosjoy-wi-ui",
-  "version": "2.2.5",
+  "version": "1.1.0",
   "private": false,
-  "description": "一款基于taro的ui组件库",
+  "description": "一款基于taro3.0的ui组件库",
   "module": "dist/libsrc/index.esm.js",
   "main": "dist/libsrc/index.js",
   "source": "src/index.js",
