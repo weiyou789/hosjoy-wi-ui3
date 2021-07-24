@@ -1,0 +1,41 @@
+
+@import '../mixins/index.scss';
+
+$color-brand: #E93B3D;
+$color-brand-light: #EC585A;
+$color-brand-dark: #E32D2F;
+
+/* 辅助色 */
+$color-success: #0C8;
+$color-error: #F53;
+$color-warning: #FFD400;
+$color-info: #4D88FF;
+
+/* 文本颜色 */
+$color-text-base: #2E2D2D;
+$color-text-title: #2E2D2D; // 文章标题
+
+/* 边框颜色 */
+$color-border-base: #DADADA;
+
+/* 组件样式 */
+$wi-message-bg-color: rgba($color: #000, $alpha: 0.6);
+
+$wi-badge-bg-color: #E93B3D;
+$wi-badge-bg: linear-gradient(90deg, #E93B3D 0%, #FF9574 100%);
+
+$wi-tag-color-active: $color-brand;
+
+$wi-input-number-btn-color: #333;
+
+$wi-range-track-bg-color: $color-brand-light;
+
+$wi-nav-bar-link-color: $color-text-title;
+
+$wi-indexes-nav-color: $color-text-title;
+
+$wi-steps-bg-color-active: $color-brand-light;
+
+$wi-timeline-dot-border-color: $color-brand;
+
+$wi-calendar-day-color: $color-text-base;
