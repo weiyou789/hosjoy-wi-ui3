@@ -57,6 +57,10 @@ export default {
                 {
                     src:['src/common','src/components','src/index.js'],
                     dest:'dist/weapp'
+                },
+                {
+                    src:'package.json',
+                    dest:'dist'
                 }
             ],
         }),
